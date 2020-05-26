@@ -1,0 +1,6 @@
+{
+	"values":[
+		"spicykai:load",
+		"spicykai:post_load"
+	]
+}
