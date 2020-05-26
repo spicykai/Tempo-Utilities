@@ -22,6 +22,7 @@ scoreboard players set $tu.beat.sixteenth tu.time 0
 scoreboard players set $tu.beat.third tu.time 0
 scoreboard players set $tu.beat.sixth tu.time 0
 
+scoreboard players set $tu.bar tu.binary 0
 scoreboard players set $tu.beat.whole tu.binary 0
 scoreboard players set $tu.beat.half tu.binary 0
 scoreboard players set $tu.beat.quarter tu.binary 0
@@ -49,7 +50,7 @@ scoreboard players set $tu.tpm tu.constants 12
 
 
 #change this one (max 1,200)
-scoreboard players set $tu.tempo tu.time 120
+scoreboard players set $tu.tempo tu.time 60
 #150 is actually 144
 #
 
