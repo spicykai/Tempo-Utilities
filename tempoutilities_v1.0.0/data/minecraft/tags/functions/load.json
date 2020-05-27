@@ -1,6 +1,6 @@
 {
 	"values":[
-		"spicykai:load",
-		"spicykai:post_load"
+		"tu:load",
+		"tu:post_load"
 	]
 }

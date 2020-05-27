@@ -1,0 +1,16 @@
+{
+	"display": {
+		"title": "Tempo Utilities",
+		"description": "Running Tempo Utilities by SpicyKai",
+		"icon": {"item": "minecraft:note_block"},
+		"show_toast": false,
+		"announce_to_chat": false,
+		"frame": "goal",
+		"background":"minecraft:textures/block/brown_concrete_powder.png"
+    },
+	"criteria": {
+        "always": {
+			"trigger": "minecraft:tick"
+		}
+    }
+}
